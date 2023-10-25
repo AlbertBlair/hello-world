@@ -1,12 +1,10 @@
-<h1> hello-world </h1>
-<em> Pre-Work for Code Kentucky </em>
+# hello-world 
+ *Pre-Work for Code Kentucky*
 
 
- <h3><strong>About Me</strong></h3>
+ ### **About Me**
+ - My name is Albert Blair.
+ - I enjoy playing chess, watching movies, and hanging out with friends and family.
+ - I am excited for this learning opportunity!
 
-<ul>
-  <li>My name is Albert Blair.</li>
-  <li>I enjoy playing chess, watching movies, and hanging out with friends and family.</li>
-  <li>I am excited for this learning opportunity!</li>
-</ul>
    
